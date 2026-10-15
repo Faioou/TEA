@@ -1,0 +1,56 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: jantar_solidario.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1440 px x 2560 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Cora W01 Medium (TrueType)
+Cora Personalizada Medium (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\tomas\Downloads\Fundo Romântico Rosa com Flores e Linho.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4604K, 940 by 1672 pixels
+Dimensions: 1439.234 by 2560 points 
+Resolution: 47.025 by 47.025 pixels per inch
+
+
+C:\Users\tomas\Downloads\WhatsApp Image 2026-10-02 at 14.23.40 (1).jpeg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 6000K, 1280 by 1600 pixels
+Dimensions: 1280 by 1600 points 
+Resolution: 72 by 72 pixels per inch
