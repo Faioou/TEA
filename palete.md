@@ -508,3 +508,251 @@ mas o que lhe vai dar aquela sensação **moderna, editorial e elegante** que es
 **escuro profundo ↔ quase branco rosado.**
 
 Essa oposição é o elemento que faltava à paleta anterior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Para Posts 
+
+
+
+
+
+
+
+
+
+Sim. Vamos **eliminar totalmente os castanhos** da estratégia.
+
+E eu também simplificaria: a identidade deve continuar a ser inequivocamente rosa, mas com **vários níveis de intensidade** para não repetir sempre `#FCDFE4 + #2B2527`.
+
+A melhor estratégia passa a ser esta:
+
+| Tipo de publicação | Fundo | Texto principal | Destaque |
+|---|---|---|---|
+| **Claro institucional** | `#FCDFE4` | `#2B2527` | `#C92F63` |
+| **Quase branco editorial** | `#FFF7FA` | `#2B2527` | `#C92F63` |
+| **Rosa logo** | `#F1B9C9` | `#2B2527` | `#C92F63` |
+| **Rosa médio** | `#EB92A8` | `#2B2527` | branco apenas decorativo |
+| **Rosa forte** | `#C92F63` | `#FFFFFF` | `#FCDFE4` |
+| **Rosa-framboesa profundo NOVO** | `#A3265B` | `#FFFFFF` | `#FCDFE4` ou `#FFF7FA` |
+
+A nova cor que eu acrescentaria é:
+
+# `#A3265B`
+
+É um **rosa-framboesa profundo**, não castanho, não roxo, não azul, não verde.
+
+Serve precisamente para os posts onde quer:
+
+### fundo rosa escuro + letra branca
+
+e permite fugir ao `#C92F63` sem sair da identidade.
+
+O contraste com branco é:
+
+\[
+CR(\#A3265B,\#FFFFFF)\approx7,03:1
+\]
+
+Ou seja, é excelente até para texto pequeno.
+
+Também pode usar:
+
+\[
+CR(\#A3265B,\#FCDFE4)\approx5,63:1
+\]
+
+Portanto, num fundo `#A3265B`, pode ter:
+
+- título branco
+- palavra ou detalhe em `#FCDFE4`
+
+e continua legível.
+
+## As combinações que eu usaria mesmo
+
+### 1. Principal / identidade
+Fundo:
+`#FCDFE4`
+
+Título:
+`#2B2527`
+
+Palavra-chave:
+`#C92F63`
+
+Use cerca de **30–35% dos posts**.
+
+---
+
+### 2. Editorial muito claro
+Fundo:
+`#FFF7FA`
+
+Título:
+`#2B2527`
+
+Destaque:
+`#C92F63`
+
+Serve para posts informativos e mais sofisticados.
+
+---
+
+### 3. Rosa suave
+Fundo:
+`#F1B9C9`
+
+Texto:
+`#2B2527`
+
+Contraste:
+
+\[
+8,97:1
+\]
+
+Muito seguro.
+
+Este fundo pode ser usado para:
+- testemunhos
+- frases
+- pequenas campanhas
+
+---
+
+### 4. Rosa médio
+Fundo:
+`#EB92A8`
+
+Texto:
+`#2B2527`
+
+Contraste:
+
+\[
+6,59:1
+\]
+
+Muito bom.
+
+Aqui eu evitaria texto branco pequeno, porque:
+
+\[
+CR(\#EB92A8,\#FFFFFF)\approx2,28:1
+\]
+
+é demasiado baixo.
+
+---
+
+### 5. Rosa forte
+Fundo:
+`#C92F63`
+
+Texto:
+`#FFFFFF`
+
+Contraste:
+
+\[
+5,16:1
+\]
+
+Ideal para:
+- eventos
+- CTA
+- datas
+- mensagens curtas
+
+---
+
+### 6. Rosa profundo
+Fundo:
+`#A3265B`
+
+Texto:
+`#FFFFFF`
+
+Contraste:
+
+\[
+7,03:1
+\]
+
+Este é o post mais forte visualmente sem cair no bordô pesado.
+
+Pode usar frases como:
+
+**JUNTAS.**
+
+**ESTAMOS AQUI.**
+
+**A SUA VOZ CONTA.**
+
+---
+
+## O ritmo que eu faria no feed
+
+Em cada 9 posts:
+
+- 3 × `#FCDFE4`
+- 1 × `#FFF7FA`
+- 1 × `#F1B9C9`
+- 1 × `#EB92A8`
+- 1 × `#C92F63`
+- 1 × `#A3265B`
+- 1 × fotografia
+
+Assim o feed continua rosa, mas não parece sempre o mesmo template.
+
+A sequência pode ser algo como:
+
+**claro → foto → rosa médio → claro → rosa forte → branco → rosa claro → rosa profundo → foto**
+
+É esta alternância de **luminosidade e saturação** que cria atenção sem introduzir outras famílias cromáticas.
+
+### Portanto, a paleta rosa estratégica ficaria:
+
+- `#FFF7FA` — quase branco
+- `#FCDFE4` — rosa principal
+- `#F1B9C9` — rosa do logótipo
+- `#EB92A8` — rosa médio
+- `#C92F63` — rosa forte
+- `#A3265B` — rosa-framboesa profundo
+- `#2B2527` — tinta principal
+- `#FFFFFF` — branco
+
+E a regra mais importante:
+
+> **fundos claros → texto `#2B2527`**  
+> **fundos rosa fortes → texto branco**
+
+Isso dá-lhe variedade sem perder a identidade da **Testemunhar é Ajudar**.

@@ -1,0 +1,57 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: tvi.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1080 px x 1350 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Romantic Harmony Custom Regular (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+(Unknown image)
+Type: Other
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\tomas\Downloads\Logótipo_TVI.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2261K, 872 by 664 pixels
+Dimensions: 260.593 by 198.434 points 
+Resolution: 240.927 by 240.927 pixels per inch
+
+
+C:\Users\tomas\Downloads\ccdaff3e-edd3-40c2-bf14-cecc43bfc610.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4608K, 1122 by 1402 pixels
+Dimensions: 1122 by 1402 points 
+Resolution: 72 by 72 pixels per inch
